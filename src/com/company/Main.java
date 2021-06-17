@@ -8,6 +8,6 @@ public class Main {
         tree.type="oak";
         tree.size=4542154;
         tree.color=4532325665454l;
-        
+
     }
 }
