@@ -9,5 +9,10 @@ public class Main {
         tree.size=4542154;
         tree.color=4532325665454l;
 
+        Flower flower=new Flower();
+        flower.color="green";
+        flower.type="blossom";
+        flower.size="big";
+
     }
 }
