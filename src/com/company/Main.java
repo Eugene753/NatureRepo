@@ -9,5 +9,10 @@ public class Main {
         tree.size=4542154;
         tree.color=4532325665454l;
 
+        Bird bird=new Bird();
+
+        bird.color="blue";
+        bird.size="small";
+        bird.type="colibri";
     }
 }
