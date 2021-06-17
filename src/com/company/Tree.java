@@ -3,7 +3,7 @@ package com.company;
 public class Tree {
 
     String type;
-    String size;
+    int size;
     String color;
 
 }
