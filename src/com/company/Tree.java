@@ -4,6 +4,6 @@ public class Tree {
 
     String type;
     String size;
-    String color;
+    long color;
 
 }
