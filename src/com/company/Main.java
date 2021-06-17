@@ -6,7 +6,8 @@ public class Main {
 
         Tree tree=new Tree();
         tree.type="oak";
-        tree.color="brown";
         tree.size=4542154;
+        tree.color=4532325665454l;
+        
     }
 }
